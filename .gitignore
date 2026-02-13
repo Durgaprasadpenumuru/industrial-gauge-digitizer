@@ -1,0 +1,17 @@
+# Environments
+.venv/
+venv/
+env/
+
+# IDE Settings
+.idea/
+.vscode/
+*.swp
+
+# Sensitive Data (CRITICAL)
+.env
+.streamlit/secrets.toml
+
+# Python compiled files
+__pycache__/
+*.pyc

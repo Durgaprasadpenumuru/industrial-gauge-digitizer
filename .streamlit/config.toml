@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#FF4B4B"        # Restores standard Red (or use #FF6600 for Safety Orange)
+backgroundColor="#F8F9FA"     # This is the "Industrial Gray" you want
+secondaryBackgroundColor="#FFFFFF" # Makes the sidebar/inputs crisp white
+textColor="#262730"
+font="sans serif"
