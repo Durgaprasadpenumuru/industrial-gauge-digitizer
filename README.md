@@ -10,7 +10,7 @@
 Millions of industrial machines are "offline" because retrofitting them with digital sensors is expensive and invasive. This project bridges that gap using software.
 
 **Key Features:**
-- **Real-time Telemetry:** Extracts pressure readings in <500ms using Groq's LPU.
+- **Real-time Telemetry:** Extracts gauge readings in <500ms using Groq's LPU.
 - **Multimodal Reasoning:** Detects "Red Zone" danger levels and gauge condition (e.g., cracked glass, rust).
 - **Human-in-the-loop:** A staging area for operator verification before database commit.
 - **Digital Historian:** Auto-generates CSV shift reports for compliance auditing.
@@ -44,3 +44,4 @@ streamlit run app.py
 ```
 👨‍💻 Author
 Durga Prasad
+
